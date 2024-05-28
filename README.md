@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a  href="https://github.com/thenurhabib/warlof"><img src="./img/logo.png" width="220px" border="2px" ></a>
+  <a  href="https://github.com/vanmanhgaming/ddosiplo"><img src="./img/logo.png" width="220px" border="2px" ></a>
   <br>
   Warlof
   <br>
