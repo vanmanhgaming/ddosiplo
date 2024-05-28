@@ -96,11 +96,6 @@ optional arguments:
 
 ### Example
 ```bash 
-python3 warlof.py example.com
-python3 warlof.py example.com -v
-python3 warlof.py example.com -p 80
-python3 warlof.py example.com --https
-python3 warlof.py example.com --sleep 5
 python warlof.py myphamthanhvan.com -p 443 -v
 python3 warlof.py myphamthanhvan.com -p 443 -v
 ```
@@ -111,10 +106,10 @@ python3 warlof.py myphamthanhvan.com -p 443 -v
 
 ### Author
 ```yaml
-Name       : Md. Nur habib
-Medium     : thenurhabib.medium.com
-Twitter    : https://twitter.com/thenurhab1b
-HackerRank : https://www.hackerrank.com/thenurhabib
+Name       : vanmanhgaming
+Medium     : https://httpsvpsvanmanhgaming.click
+Telegram    : https://t.me/Vpsvanmanhgaming
+HackerRank : https://httpsvpsvanmanhgaming.click
 
 ```
 
