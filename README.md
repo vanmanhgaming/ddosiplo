@@ -44,7 +44,7 @@
 ### Documentation
 ### install
 ```yaml
-git clone https://github.com/thenurhabib/warlof.git
+git clone https://github.com/vanmanhgaming/ddosiplo
 cd warlof
 bash setup.sh
 python3 warlof.py --help
